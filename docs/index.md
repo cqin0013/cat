@@ -4,19 +4,19 @@ layout: doc
 
 
 
-# 職務経歴書
+# 实习修改文本
 
-## 基本情報
+## 实习修改文本
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|居住地|茨城県|
-|最終学歴|立命館大学経営学部卒|
+|氏名|实习修改文本|
+|生年月日|实习修改文本|
+|居住地|实习修改文本|
+|最終学歴|实习修改文本|
 
 
-## 各種アカウント
+## 实习修改文本
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
   <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
