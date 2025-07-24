@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CV of kawamataRyo",
+  title: "实习实习实习实习实习-修改文本",
   description: "Kawamata Ryoの職務経歴書",
   base: '/',
   head: [
